@@ -1,7 +1,7 @@
 
 # Model Risk Validation (Bernard Malhame)
 
-###Model validation using SR 11-7 outcomes analysis
+Model validation using SR 11-7 outcomes analysis
 
 
 **Objective**
